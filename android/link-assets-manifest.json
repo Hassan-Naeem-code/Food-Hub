@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/SofiaProBlack-Italic.ttf",
+      "sha1": "754020ac3e8c940b126bb9abe8ab29915f748a88"
+    },
+    {
+      "path": "assets/fonts/SofiaProBlack.ttf",
+      "sha1": "655de5d67f8d0e97bacf62dc070e91ce0966281e"
+    },
+    {
+      "path": "assets/fonts/SofiaProBold-Italic.ttf",
+      "sha1": "601215ada93ed09aac5acad0b07129c2dce7e42f"
+    },
+    {
+      "path": "assets/fonts/SofiaProBold.ttf",
+      "sha1": "f6a41518fe7f8d74fe23f0dd8d832e9d659f935d"
+    },
+    {
+      "path": "assets/fonts/SofiaProExtraLight-Italic.ttf",
+      "sha1": "6b88531df613f9b685b15b9d90c884a60c7839ac"
+    },
+    {
+      "path": "assets/fonts/SofiaProExtraLight.ttf",
+      "sha1": "57c75fc071511e9e1fb634b41f26fffafb8b83d9"
+    },
+    {
+      "path": "assets/fonts/SofiaProLight-Italic.ttf",
+      "sha1": "73e714dd2503bf737eafe8fbd16218f1ecee843c"
+    },
+    {
+      "path": "assets/fonts/SofiaProLight.ttf",
+      "sha1": "0a69be503c60aa844b0364d2fa7d31c4ea44adfc"
+    },
+    {
+      "path": "assets/fonts/SofiaProMedium-Italic.ttf",
+      "sha1": "70b8e3038e770e86ed0e2e5ac97d7ba9b4d1ebca"
+    },
+    {
+      "path": "assets/fonts/SofiaProMedium.ttf",
+      "sha1": "0eefbc3d8cf460fd5e69cf7ddbb9042dd956f3f2"
+    },
+    {
+      "path": "assets/fonts/SofiaProRegular-Italic.ttf",
+      "sha1": "6477fbc43faf4183c67dbf231f9eca50abe99311"
+    },
+    {
+      "path": "assets/fonts/SofiaProRegular.ttf",
+      "sha1": "3725c662e94be986b5025e978975643d5b097b15"
+    },
+    {
+      "path": "assets/fonts/SofiaProSemiBold-Italic.ttf",
+      "sha1": "55a0608217af9bc04e49c9054c9ff0ae4b82abef"
+    },
+    {
+      "path": "assets/fonts/SofiaProSemiBold.ttf",
+      "sha1": "55eaccc2855cd3dc0bf95416526cbb1864a2ea1c"
+    },
+    {
+      "path": "assets/fonts/SofiaProUltraLight-Italic.ttf",
+      "sha1": "df11935f18e97561e1d17a9117042125875afab6"
+    },
+    {
+      "path": "assets/fonts/SofiaProUltraLight.ttf",
+      "sha1": "662c8fd86b64bf4c4bdcaa4a64e9611eec5d5524"
+    }
+  ]
+}
